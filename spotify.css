@@ -543,6 +543,7 @@ body {
 }
 .legal-privacy a {
     text-decoration: none;
+    color: inherit;
 }
 .legal-privacy a:visited {
     text-decoration: none;
